@@ -1,0 +1,161 @@
+{
+  "total_co2e": 7434026964.6,
+  "total_co2e_fmt": "7434.0M",
+  "total_facilities": 8722,
+  "geocoded_facilities": 8722,
+  "latest_year": 2023,
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "states_count": 54,
+  "sectors": {
+    "Refineries": {
+      "co2e": 1938342623.4,
+      "count": 132
+    },
+    "Power Plants": {
+      "co2e": 1747235849.7,
+      "count": 1414
+    },
+    "Natural Gas and Natural Gas Liquids Suppliers": {
+      "co2e": 1373693554.3,
+      "count": 482
+    },
+    "Petroleum Product Suppliers": {
+      "co2e": 1221697098.6,
+      "count": 78
+    },
+    "Petroleum and Natural Gas Systems": {
+      "co2e": 335994042.2,
+      "count": 2554
+    },
+    "Waste": {
+      "co2e": 318447072.9,
+      "count": 1509
+    },
+    "Chemicals": {
+      "co2e": 166306503.7,
+      "count": 411
+    },
+    "Minerals": {
+      "co2e": 106986582.2,
+      "count": 381
+    },
+    "Other": {
+      "co2e": 104873614.3,
+      "count": 1302
+    },
+    "Metals": {
+      "co2e": 65674870.4,
+      "count": 298
+    },
+    "Suppliers of CO2": {
+      "co2e": 27028057.8,
+      "count": 12
+    },
+    "Injection of CO2": {
+      "co2e": 14766658.9,
+      "count": 12
+    },
+    "Pulp and Paper": {
+      "co2e": 12980436.2,
+      "count": 137
+    }
+  },
+  "top10": [
+    {
+      "id": "1010568",
+      "name": "Valero Marketing and Supply Company",
+      "company": "VALERO ENERGY CORP",
+      "state": "TX",
+      "sector": "Petroleum Product Suppliers",
+      "co2e": 238380354.0,
+      "co2e_fmt": "238.4M"
+    },
+    {
+      "id": "1003043",
+      "name": "Garyville Refinery",
+      "company": "MARATHON PETROLEUM CORP",
+      "state": "LA",
+      "sector": "Refineries",
+      "co2e": 97912435.2,
+      "co2e_fmt": "97.9M"
+    },
+    {
+      "id": "1007458",
+      "name": "MOTIVA ENTERPRISES LLC",
+      "company": "ARAMCO SERVICES CO",
+      "state": "TX",
+      "sector": "Refineries",
+      "co2e": 96999117.1,
+      "co2e_fmt": "97.0M"
+    },
+    {
+      "id": "1007542",
+      "name": "EXXONMOBIL Bt Site",
+      "company": "EXXON MOBIL CORP",
+      "state": "TX",
+      "sector": "Refineries",
+      "co2e": 94894787.8,
+      "co2e_fmt": "94.9M"
+    },
+    {
+      "id": "1007959",
+      "name": "Exxonmobil Beaumont Refinery",
+      "company": "EXXON MOBIL CORP",
+      "state": "TX",
+      "sector": "Power Plants",
+      "co2e": 89058741.8,
+      "co2e_fmt": "89.1M"
+    },
+    {
+      "id": "1007643",
+      "name": "EXXONMOBIL BATON ROUGE REFINERY AND CHEMICAL PLANT",
+      "company": "EXXON MOBIL CORP",
+      "state": "LA",
+      "sector": "Refineries",
+      "co2e": 86892465.8,
+      "co2e_fmt": "86.9M"
+    },
+    {
+      "id": "1005585",
+      "name": "Galveston Bay Refinery",
+      "company": "MARATHON PETROLEUM CORP",
+      "state": "TX",
+      "sector": "Power Plants",
+      "co2e": 77813378.5,
+      "co2e_fmt": "77.8M"
+    },
+    {
+      "id": "1010448",
+      "name": "Enterprise Products Operating LLC",
+      "company": "ENTERPRISE PRODUCTS PARTNERS LP",
+      "state": "TX",
+      "sector": "Petroleum Product Suppliers",
+      "co2e": 72902210.4,
+      "co2e_fmt": "72.9M"
+    },
+    {
+      "id": "1007339",
+      "name": "BP Whiting Business Unit",
+      "company": "BP AMERICA INC",
+      "state": "IN",
+      "sector": "Power Plants",
+      "co2e": 71179267.8,
+      "co2e_fmt": "71.2M"
+    },
+    {
+      "id": "1002389",
+      "name": "CITGO PETROLEUM CORP - LAKE CHARLES MANUFACTURING COMPLEX",
+      "company": "PDV AMERICA INC",
+      "state": "LA",
+      "sector": "Refineries",
+      "co2e": 68674349.1,
+      "co2e_fmt": "68.7M"
+    }
+  ]
+}
